@@ -1,1 +1,2 @@
-# Pig-Game Simple Pig Game using JavaScript
+# Pig-Game 
+Simple Pig Game using JavaScript
